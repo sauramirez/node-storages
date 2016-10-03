@@ -1,0 +1,19 @@
+{
+  "name": "node-storages",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^11.1.0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.6.6",
+    "jsftp": "^1.5.4"
+  }
+}
